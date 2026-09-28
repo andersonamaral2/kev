@@ -439,24 +439,24 @@ Related work: [Hydragen](https://arxiv.org/abs/2402.05099), [DeFT](https://arxiv
 
 [Apache-2.0](LICENSE). The Qwen3, Qwen3.5 and Qwen3.8 base models are also Apache-2.0. Training datasets have their own licenses; see the [model cards](docs/model-cards/).
 
-
 ---
 
-## 🚨 Scoras Digital DevOps Agent — Verificação
+## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-20%2F100%20(F)-red?style=for-the-badge&logo=github)](./andersonamaral2_kev_2026-09-27.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-58%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_kev_2026-09-28.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/kev)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `27/09/2026` |
-| 📊 Score DevOps & Segurança | `20/100` |
-| 🎯 Nota | F — Crítico |
-| 📄 Relatório Completo | [andersonamaral2_kev_2026-09-27.md](./andersonamaral2_kev_2026-09-27.md) |
+| 📅 Data da Avaliação | `28/09/2026` |
+| 📊 Score DevOps & Segurança | `58/100` |
+| 🎯 Nota | C — Regular |
+| 📄 Relatório Completo | [andersonamaral2_kev_2026-09-28.md](./andersonamaral2_kev_2026-09-28.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **27/09/2026***
+> *Última avaliação: **28/09/2026***
 
 ---
+
